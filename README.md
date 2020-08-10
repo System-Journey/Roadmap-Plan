@@ -4,11 +4,16 @@ plan of my system journey.
 
 ## 工程实践
 
+### System design
+
+- [ ] SICP
+- [ ] c interfaces and implementations
+- [ ] computer system engineering *(1/4)*
+
 ### C/C++
 
 - [ ] learn c the hard way begin from ch19 *(0/34)*
 - [ ] software engineering practice *(0/5, 0/2)*
-- [ ] computer system engineering *(1/4)*
 
 ### Rust
 
