@@ -20,12 +20,17 @@ plan of my system journey.
 - [ ] TRPL
 - [ ] *Ray Tracing in one weekend*
 - [ ] rcore
+- [ ] [pingcap talent plan 5](https://university.pingcap.com/talent-plan/rust-programming)
 
 ### OS
 
 - [ ] chcore
 - [ ] stanford cs140e
 - [ ] chcore基于Rust重写
+
+### Computer Architecture
+
+- [ ] [CS152](https://inst.eecs.berkeley.edu/~cs152/sp20/)
 
 ### Database system
 
@@ -40,5 +45,3 @@ plan of my system journey.
 
 - [ ] [sjtu Computer Systems Principle (CSP)](https://ipads.se.sjtu.edu.cn/courses/csp/)
 - [ ] [sjtu Computer System Design & Implementation (CSDI)](https://ipads.se.sjtu.edu.cn/courses/csdi/)
-
-
