@@ -45,3 +45,4 @@ plan of my system journey.
 
 - [ ] [sjtu Computer Systems Principle (CSP)](https://ipads.se.sjtu.edu.cn/courses/csp/)
 - [ ] [sjtu Computer System Design & Implementation (CSDI)](https://ipads.se.sjtu.edu.cn/courses/csdi/)
+- [ ] [Advanced Topics in Operating Systems](http://web.stanford.edu/class/cs240/)
