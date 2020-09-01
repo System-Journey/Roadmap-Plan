@@ -14,6 +14,7 @@ plan of my system journey.
 
 - [ ] learn c the hard way begin from ch19 *(0/34)*
 - [ ] software engineering practice *(0/5, 0/2)*
+- [ ] [Advanced Programming in the UNIX Environment](https://www.cs.stevens.edu/~jschauma/631/)
 
 ### Rust
 
